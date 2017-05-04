@@ -1,0 +1,9 @@
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\Cashik\Desktop\works\Image-to-conturs\Проект\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
